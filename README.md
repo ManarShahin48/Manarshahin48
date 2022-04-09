@@ -5,7 +5,6 @@
 
 - :school: I am a `Junior` at Faculty of Computers & Information at Suez University
 - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/)
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - 🌱 I’m currently learning `Flutter` and `FWD Data Analysis`
 - 📫 How to reach me **manarshahin48@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/17YlTfePQpIzijRrstX-YIfm_HxtDyDoJLaHHZQnJeP8/edit?usp=sharing).
@@ -126,7 +125,7 @@
 
 <br/>
 
-## :trophy: Git profile Trophies
+### :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manarshahin48&layout=compact&theme=algolia" alt="Manar Shahin" /></a> </p>
 
