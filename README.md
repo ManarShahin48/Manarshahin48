@@ -87,7 +87,7 @@
   &emsp;
     <a href="https://dart.dev"><img alt="Dart" src="https://img.shields.io/badge/dart-%23181717.svg?style=plastic&logo=dart&logoColor=white"></a>
   &emsp;
-    <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/-React%20Native-FE7A16?style=plastic&logo=reactnative&logoColor=white"></a>
+    <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-0078d7.svg?style=plastic&logo=react&nativeColor=white"></a>
   &emsp;
 </p>
 
