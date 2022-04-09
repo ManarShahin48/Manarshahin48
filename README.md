@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" /> </p>
 
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez University
+- :school: I am a `Junior` at Faculty of Computers & Information at Suez University
 - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/)
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - 🌱 I’m currently learning `Flutter` and `FWD Data Analysis`
