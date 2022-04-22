@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manar Shahin</h1>
 <h3 align="center">Interested in Mobile Development [Flutter] and Data Analysis</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
+		   <img src="https://badges.pufler.dev/repos/manarshahin48" alt="manarshahin48" />
+		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
+</p>
+
 
 - :school: I am a `Junior` at Faculty of Computers & Information at Suez University
 - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/)
@@ -11,12 +15,6 @@
 - :nerd_face: Always `learning new things`
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=algolia" /></p>
-
-<br>
-<br>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
 	<a href="mailto:manarshahin48@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -24,6 +22,12 @@
 	<a href="https://www.linkedin.com/in/manarshahin48 /"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/manarshahin48"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=algolia" /></p>
+
+<br>
+
 
 ## 🛠️ My Skills
 
