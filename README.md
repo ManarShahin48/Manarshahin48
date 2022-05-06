@@ -7,7 +7,7 @@
 </p>
 
 
-- :school: I am a `Junior` at Faculty of Computers & Information at Suez University
+- :school: I am a `Senior` at Faculty of Computers & Information at Suez University
 - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/)
 - 🌱 I’m currently learning `Flutter` and `FWD Data Analysis`
 - 📫 How to reach me **manarshahin48@gmail.com**
