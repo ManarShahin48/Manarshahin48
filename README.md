@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manar Shahin</h1>
-<h3 align="center">Mobile App Developer @ Abber</h3>
+<h3 align="center">Mobile App Developer | Flutter</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
 		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
@@ -9,7 +9,7 @@
 
 - :school: I am a `Computer Science Fresh Graduate` from Faculty of Computers & Information at Suez University
 - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/)
-- 🌱 I’m currently learning `Flutter` and `FWD Data Analysis`
+- 🌱 I’m currently studing `Flutter`
 - 📫 How to reach me **manarshahin48@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1zEygo_B7zPizV16gv6ju1nxfv2PDx6z0/view?usp=sharing).
 - :nerd_face: Always `learning new things`
