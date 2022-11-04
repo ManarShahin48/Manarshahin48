@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/)
 - 🌱 I’m currently studing `Flutter`
 - 📫 How to reach me **manarshahin48@gmail.com**
-- :thinking: I’m currently open for: new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/13iMI6DSgl7sXo86snk9K1hrVyIFVXPJ4/view?usp=sharing).
+- :thinking: I’m currently open for: new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1HyP3E7MsGhheuTH-s1LKYGext9Exa17M/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 
