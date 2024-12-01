@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manar Shahin</h1>
-<h3 align="center">Mobile App Developer | Flutter @ Etisalat</h3>
+<h3 align="center">Software Engineer || @ Cyshield</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
 		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
@@ -8,8 +8,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - :school: I am a `Computer Science Fresh Graduate` from the Faculty of Computers & Information at Suez University
-- 🔭 I’m currently working at [Etisalat Egypt](https://www.linkedin.com/company/etisalat-egypt/)
-- 🌱 I’m currently studying `Flutter` and `iOS`
+- 🔭 I’m currently working at [Cyshield](https://www.linkedin.com/company/cyshield/)
+- 🌱 I’m currently studying `Flutter` and `Native`
 - 📫 How to reach me **manarshahin48@gmail.com**
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1HyP3E7MsGhheuTH-s1LKYGext9Exa17M/view?usp=sharing).
 - :nerd_face: Always `learning new things`
